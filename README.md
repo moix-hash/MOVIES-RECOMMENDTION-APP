@@ -1,21 +1,21 @@
-# 🎬 CineScope v3
+#  CineScope v3
 
 CineScope is a premium movie discovery and tracking application built with **React Native** and **Expo**. It provides a cinematic experience for browsing trending films, searching for classics, and managing your personal watchlist without any subscription fees.
 
 ---
 
-## ✨ Features
+##  Features
 
-- **🎬 Cinematic UI/UX**: Smooth animations, glassmorphism effects, and high-quality hero transitions.
-- **🔐 Secure Authentication**: Multi-channel login via Firebase Auth (Email/Password & Google OAuth).
-- **📡 Real-time Sync**: Watchlist and user profile data synced instantly across devices using Firestore.
-- **🎥 TMDB Integration**: Powered by The Movie Database API for up-to-the-minute movie details, trailers, and recommendations.
-- **🚀 Performance Optimized**: Uses FlashList for buttery-smooth scrolling and Redux Toolkit for efficient state management.
-- **🎭 Personalization**: Customizable profiles, watched history, and genre-based filtering.
+- ** Cinematic UI/UX**: Smooth animations, glassmorphism effects, and high-quality hero transitions.
+- ** Secure Authentication**: Multi-channel login via Firebase Auth (Email/Password & Google OAuth).
+- ** Real-time Sync**: Watchlist and user profile data synced instantly across devices using Firestore.
+- ** TMDB Integration**: Powered by The Movie Database API for up-to-the-minute movie details, trailers, and recommendations.
+- ** Performance Optimized**: Uses FlashList for buttery-smooth scrolling and Redux Toolkit for efficient state management.
+- ** Personalization**: Customizable profiles, watched history, and genre-based filtering.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: [Expo](https://expo.dev/) / [React Native](https://reactnative.dev/)
 - **State Management**: [Redux Toolkit](https://redux-toolkit.js.org/)
@@ -26,7 +26,7 @@ CineScope is a premium movie discovery and tracking application built with **Rea
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ CineScope is a premium movie discovery and tracking application built with **Rea
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Home Screen | Movie Details | Search |
 | :---: | :---: | :---: |
@@ -73,13 +73,13 @@ CineScope is a premium movie discovery and tracking application built with **Rea
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
